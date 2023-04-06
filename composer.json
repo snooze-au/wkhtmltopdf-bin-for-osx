@@ -1,0 +1,19 @@
+{
+    "name": "snooze/wkhtmltopdf-binaries-osx",
+    "description": "wkhtmltopdf binaries for MacOS",
+    "keywords": ["pdf", "wkhtmltopdf", "binary"],
+    "license": "MIT",
+    "homepage": "https://github.com/snooze-au/wkhtmltopdf-binaries-osx",
+    "authors": [
+        {
+            "name": "Daniel G Adarve",
+            "email": "daniel.adarve@snooze.com.au"
+        }
+    ],
+    "minimum-stability": "stable",
+    "bin": [
+        "bin/wkhtmltoimage-amd64-osx",
+        "bin/wkhtmltopdf-amd64-osx"
+    ],
+    "require": {}
+}
