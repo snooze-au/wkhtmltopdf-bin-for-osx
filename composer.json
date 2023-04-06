@@ -1,7 +1,7 @@
 {
     "name": "snooze/wkhtmltopdf-binaries-osx",
     "description": "wkhtmltopdf binaries for MacOS",
-    "keywords": ["pdf", "wkhtmltopdf", "binary"],
+    "keywords": ["pdf", "html to pdf", "html to image", "wkhtmltopdf", "binary"],
     "license": "MIT",
     "homepage": "https://github.com/snooze-au/wkhtmltopdf-binaries-osx",
     "authors": [
