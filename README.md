@@ -11,12 +11,11 @@ See (http://wkhtmltopdf.org/downloads.html) for more details!
 
 ### Package Installation
 
-Require this package as a --dev dependencie in your composer.json and update composer.
+Require this package as a --dev dependencies in your composer.json and update composer.
 
 ```bash
-composer require --dev barryvdh/laravel-snappy
+composer require --dev snooze/wkhtmltopdf-binaries-osx
 ```
-
 
 ### Symlinked paths:
 
